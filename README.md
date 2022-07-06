@@ -2,6 +2,9 @@
 *This project creates a smart contract and then deploys it to Rinkeby public testnet. NFT's can then be minted by sending transaction to the deployed smart contract.*
 https://testnets.opensea.io/assets/rinkeby/0xc161ecfcf203a9fba2c3cfe95ec56b1277f99cc1/1
 
+![Mrs  Frog - Mrs  Frog _ OpenSea](https://user-images.githubusercontent.com/72671943/177624137-90708cde-8efc-4af3-adb5-bbf3b36491ea.png)
+
+
 Find the NFT's on Opensea testnet:
 This project demonstrates how to deploy NFT using hardhat, 
 Language and tool: Solidity, JavaScript, Hardhat, OpenZeppelin, Alchemy, Pinata API,web3.js,ether.js
